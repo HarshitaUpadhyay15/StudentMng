@@ -1,0 +1,2 @@
+# StudentMng
+Student Management Project
